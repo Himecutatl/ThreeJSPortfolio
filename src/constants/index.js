@@ -122,9 +122,9 @@ import {
       iconBg: "#383E56",
       date: "March 2022 - October 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Part-time Immersive student in the Software Engineering program providing over 400 hours of professional development training.",
+        "Course material including but not limited to: JavaScript, React.js, Python, Django, MongoDB and GitHub navigation",
+        "Practiced a hands-on, involved approach to establish a well-rounded developer mentality",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
@@ -133,12 +133,11 @@ import {
       company_name: "Freelance",
       // icon: tesla,
       // iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "November 2022 - Feb 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+      
       ],
     },
     // {
